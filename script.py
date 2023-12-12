@@ -1,6 +1,6 @@
 #Settare La Versione
 #Settare gli url(accesso,logo,aggiornamenti)
-
+#aggiornato
 import tkinter as tk
 from tkinter import messagebox, ttk
 from tkcalendar import Calendar
